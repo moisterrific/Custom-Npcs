@@ -19,3 +19,5 @@ Defining Custom Loot for The Monsters
 ```
 
 See Issues tab to see what you can help Improve and Fix.
+
+[Custom NPCs](https://tshock.co/xf/index.php?resources/custom-npcs.142/)
